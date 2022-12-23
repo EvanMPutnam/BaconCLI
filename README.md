@@ -1,4 +1,4 @@
-# Description
+# BaconCLI
 BaconCLI is a command line tool that searched for relations between actors in films using NEO4J as a backing database.  This was done as a simple exercise to test the capabilities of NEO4J.
 
 ## Setup
